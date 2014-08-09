@@ -1,0 +1,6 @@
+node_modules/**
+lib/**/*
+**lib**
+**/*.min*.js
+public/lib/**
+**node_modules**

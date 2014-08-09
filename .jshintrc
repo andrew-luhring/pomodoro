@@ -1,0 +1,23 @@
+{
+	"laxcomma": "true",
+	"bitwise": "true",
+	"curly": "true",
+	"eqeqeq": "true",
+	"forin": "true",
+	"latedef": "true",
+	"newcap": "true",
+	"noarg": "true",
+	"nonew": "false",
+	"undef": "true",
+	"unused": "false",
+	"trailing": "false",
+	"node": "true",
+	"smarttabs": "true",
+	"debug": "true",
+	"sub": "true",
+	"supernew": "true",
+	"browser": "true",
+	"devel": "true",
+	"strict": "false",
+	"esnext" : "true"
+}
